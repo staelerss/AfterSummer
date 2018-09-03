@@ -2,11 +2,24 @@ h1 {
     text-align: center;
     font-family: "Code Pro Bold";
 }
-h2 {
+h3 {
+    font-size: small;
     text-align: right;
-    opacity: 70%;
+    opacity: 0.05;
 }
 tr {
     text-align: center;
+    vertical-align: middle;
     width: 25%;
+}
+button {
+    text-align: center;
+    font-family: "Agency FB";
+    width: 35px;
+    height: 35px;
+    border-radius: 15px;
+}
+td {
+    height: 25px;
+    width: 25px;
 }
